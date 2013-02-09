@@ -33,6 +33,7 @@
       </plugin>
     </plugins>
     <resources>
+    <!-- http://wiki.fdiary.net/maven2/?CookBook#l7 -->
       <resource>
         <!-- リソースの場所とワイルドカードの指定 -->
         <directory>src/main/resource</directory>
