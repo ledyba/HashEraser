@@ -3,18 +3,6 @@ package hasheraser;
 import java.security.*;
 import java.io.*;
 
-/**
- * <p>�^�C�g��: HashEraser</p>
- *
- * <p>�־: �n�b�V���쩂č폜���܂�</p>
- *
- * <p>���쌠: Copyright (c) 2007 PSi</p>
- *
- * <p>��Ж�: </p>
- *
- * @author �����
- * @version 1.0
- */
 public class Hash {
     private MessageDigest Digest;
     private byte[] Mem = new byte[1024*1024];//1MB

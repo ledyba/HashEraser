@@ -7,12 +7,10 @@ HashEraser
 使い方
 =====
 ```
-java -jar hasheraser.jar <フォルダ> [r]
+java -jar target/hasheraser-1.0.jar
 ```
 
-rをつけると再帰的にフォルダを降りていきます。
-
-重複したファイルを発見すると全て表示され、そのうちのどのファイルだけを残すのか聞きます。
+ってやると色々聞かれるので答えて下さい。 :)
 
 License
 =====

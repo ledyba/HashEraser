@@ -5,18 +5,6 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.*;
 
-/**
- * <p>タイトル: HashEraser</p>
- *
- * <p>説明: ハッシュを見て削除します</p>
- *
- * <p>著作権: Copyright (c) 2007 PSi</p>
- *
- * <p>会社名: </p>
- *
- * @author 未入力
- * @version 1.0
- */
 public class EraserPrompt {
     public EraserPrompt() {
     }

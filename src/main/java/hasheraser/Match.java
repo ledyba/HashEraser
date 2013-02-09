@@ -5,18 +5,6 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.io.*;
 
-/**
- * <p>�^�C�g��: HashEraser</p>
- *
- * <p>�־: �n�b�V���쩂č폜���܂�</p>
- *
- * <p>���쌠: Copyright (c) 2007 PSi</p>
- *
- * <p>��Ж�: </p>
- *
- * @author �����
- * @version 1.0
- */
 public class Match {
     private boolean Recurrent = false;
     private File Folder;
